@@ -1,7 +1,8 @@
 import random
 import os
 
-clear = lambda: os.system('clear')
+
+clear = lambda: os.system('cls')
 
 
 # PLAYER MECHANICS
